@@ -7,5 +7,5 @@ Instructions
 4. Run the SQL File (make sure you have sql in your PC/Laptop)
    -  Install SQL
    -  Extract if downloaded ZIP
-   -  Run the file through mysql -uroot -p<passwordsetduringinstall> < <directoryhere>\lxc.sql
+   -  Run the file through mysql -uroot -p/passwordsetduringinstall/ < <directoryhere>\lxc.sql
    -  Run the python file by opening the folder through the terminal and running "python LXCPROJECT.py"
